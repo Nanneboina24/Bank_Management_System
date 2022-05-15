@@ -1,5 +1,5 @@
 # Bank_Management_System
-Spring Java Application
+Java Spring Application
 
 # Description 
 Banking operations can be operated through this JAVA application.
