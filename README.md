@@ -11,10 +11,11 @@ FRAMEWORK : SPRING<br/>
 IDE       : ECLIPSE<br/>
 
 # Modules
-1) Deposit
-2) Withdraw
-3) Transfer
-4) Account
+1) Enroll
+2) Deposit
+3) Withdraw
+4) Transfer
+5) Account
 
 # Develop by..
 Nanneboina Sumanth
